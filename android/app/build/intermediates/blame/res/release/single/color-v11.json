@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/stellent/Documents/PracticalTest/android/app/build/intermediates/res/merged/release/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/stellent/.android/build-cache/065aebeefedf4734c2be8eb2d401cb1471a461d8/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/stellent/Documents/PracticalTest/android/app/build/intermediates/res/merged/release/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/stellent/.android/build-cache/065aebeefedf4734c2be8eb2d401cb1471a461d8/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]
