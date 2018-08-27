@@ -2,310 +2,301 @@
 <items version="2" >
 
     <item
-        is-multidex="true"
-        jar="/Users/stellent/.android/build-cache/abef5c18b815a0dc53d0297dc60f480223e6d3f9/output/jars/classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/Users/apple/.android/build-cache/f4f1c887ea0356b8719b625d859a811553901443/output/jars/classes.jar"
+        jumboMode="false"
         optimize="true"
-        revision="26.0.3"
-        sha1="508f50705b4fde51a16259f29c854201a3044516">
-        <dex dex="/Users/stellent/Documents/PracticalTest/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3b78d639168e49174a0c57fdf92438668cfa97ee/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/stellent/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.3"
-        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
-        <dex dex="/Users/stellent/Documents/PracticalTest/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.0.0_548ddc1bfc3f5c3bed4f26c5febfcea5ee7d453a/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/stellent/.android/build-cache/847fa17533e06e5c961503139e75ac29453cadfe/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.3"
-        sha1="f80a752d1333efd4fb9b87da63e73909acb151af">
-        <dex dex="/Users/stellent/Documents/PracticalTest/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1fb862bd6ea5d55b8360303cd7518c9ec991628e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/stellent/.android/build-cache/cd1f724f2a46b86884ccc77b940770165e472098/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.3"
-        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
-        <dex dex="/Users/stellent/Documents/PracticalTest/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fc9e7041c76bec3c1653f822f082d956b81980ff/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/stellent/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.3"
-        sha1="6975da39a7040257bd51d21a231b76c915872d38">
-        <dex dex="/Users/stellent/Documents/PracticalTest/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/javax.inject-1_8bd5960406c0b43586f691ef67b2eb687b0e77f3/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/stellent/Documents/PracticalTest/android/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.3"
-        sha1="b107c8d32d0c97a628f38c4df1d12def962453e5">
-        <dex dex="/Users/stellent/Documents/PracticalTest/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_362cd2e338a0961f0ba770493afc50787247c39c/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/stellent/.android/build-cache/0ec9a7a3e33d3bc12ee259453d99cec543cfae8f/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.3"
+        revision="27.0.2"
         sha1="dc6c0959ecc7b21932675183573b2bcecf2687b9">
-        <dex dex="/Users/stellent/Documents/PracticalTest/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8f07dc09bad5e6bfb54af35761b7bd0e18b763a5/classes.dex" />
+        <dex dex="/Users/apple/Documents/PracticalTest/android/app/build/intermediates/pre-dexed/debug/classes_617fd322dc81fe3a2d3e9c8cb6a0dc18adfd8347.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/stellent/.android/build-cache/bedc5de132aaf6ffd38d24370f40da275fec6460/output/jars/classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
         optimize="true"
-        revision="26.0.3"
-        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
-        <dex dex="/Users/stellent/Documents/PracticalTest/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d70a2fc193b19a099aad4feced9d9d11dc32a661/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/stellent/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.3"
+        revision="27.0.2"
         sha1="f162442a19fff13995fbd51ba414d9ee05579080">
-        <dex dex="/Users/stellent/Documents/PracticalTest/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/staticlayout-proxy-1.0_2dd1c25885ac1b961fc13e42f2c1699ae47cab18/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/stellent/.android/build-cache/ef82317fbd8e70f9ea0e4caaf51a51309bdb84d2/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.3"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/stellent/Documents/PracticalTest/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_11edf6967760321f84d9036d2eb55fdfefc2efd9/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/stellent/.android/build-cache/7f389858bff0d9048c5babc88b24de7d1242648b/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.3"
-        sha1="9803a14716e9f462afb5742811f3456c39f3be3a">
-        <dex dex="/Users/stellent/Documents/PracticalTest/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_aba582e9ed554c8cd11e06ed3da30ff3a6bdff6b/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/stellent/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.10.0/ec614c05825ddd2267677a99f585d3913474b125/okhttp-urlconnection-3.10.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.3"
-        sha1="ec614c05825ddd2267677a99f585d3913474b125">
-        <dex dex="/Users/stellent/Documents/PracticalTest/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-urlconnection-3.10.0_792e74621c7c6ebbcab9d9408da764dda359579f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/stellent/.android/build-cache/8e166ce4cf2a6e056d180c02489d581000a2b2ff/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.3"
-        sha1="ae15c560bc6685007440d8a70686f8348bafd791">
-        <dex dex="/Users/stellent/Documents/PracticalTest/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9b11559cf3276833f8151c0888e335a6ca55e333/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/stellent/.android/build-cache/2443f44f9c8301e3ba548df12d8830e9fb0dcbf1/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.3"
-        sha1="1c9837ec75b2273699379c2ba0ae63d669b4f08c">
-        <dex dex="/Users/stellent/Documents/PracticalTest/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_076c1d433f1db71bd0bc0603d651bcce738f7865/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/stellent/.android/build-cache/71e29466c43cf0fb187ec6ae37cb4252cdf361bb/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.3"
-        sha1="87382214d92be4e3c931cb6aa7aa4e827bc179b7">
-        <dex dex="/Users/stellent/Documents/PracticalTest/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3fafd7b8cf35849f1df8ddc240d7392b70209e4d/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/stellent/.android/build-cache/a4bb32bbbb8a05aaca0f18ca77ae1ce9e7682072/output/jars/libs/infer-annotations-4.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.3"
-        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
-        <dex dex="/Users/stellent/Documents/PracticalTest/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/infer-annotations-4.0_41c51d41a06f331682195abfb39c8856019bf032/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/stellent/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.10.0/7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e/okhttp-3.10.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.3"
-        sha1="7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e">
-        <dex dex="/Users/stellent/Documents/PracticalTest/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.10.0_30efc172a11c72b7007c65c30648b219bdad67b8/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/stellent/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.3"
-        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
-        <dex dex="/Users/stellent/Documents/PracticalTest/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.0.0_6b1c898a4fd266f0b7884fd26dba08f46034f85d/classes.dex" />
+        <dex dex="/Users/apple/Documents/PracticalTest/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_4d121df1450a44e650aa8aab14c48298b5cba1bb.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/stellent/.android/build-cache/a4bb32bbbb8a05aaca0f18ca77ae1ce9e7682072/output/jars/libs/infer-annotations-4.0.jar"
+        jar="/Users/apple/.android/build-cache/471ee309203ad55107e957558645bda8cc937fa1/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="26.0.3"
-        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
-        <dex dex="/Users/stellent/Documents/PracticalTest/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_41c51d41a06f331682195abfb39c8856019bf032.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/stellent/.android/build-cache/f55e352a42fd2521dd465ae9136030593a896318/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.3"
-        sha1="da59c80e4a1c8df62d2b4188ef3efddab8afa236">
-        <dex dex="/Users/stellent/Documents/PracticalTest/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_917f2339a9081bbc6a2e58f3e85b8aef9c1dfd26/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/stellent/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.3"
-        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
-        <dex dex="/Users/stellent/Documents/PracticalTest/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_d5155b5ba5e0f974dfe8460b0ac4a96cc4742713/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/stellent/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.14.0/102d7be47241d781ef95f1581d414b0943053130/okio-1.14.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.3"
-        sha1="102d7be47241d781ef95f1581d414b0943053130">
-        <dex dex="/Users/stellent/Documents/PracticalTest/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.14.0_1cd1503412a2494dac13a74366338867405bcd36/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/stellent/.android/build-cache/4df5f07430d1149b290a7ae8c7fcb1227899cf38/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.3"
-        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
-        <dex dex="/Users/stellent/Documents/PracticalTest/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_217a197948cfa8e35e3730a6e6b2dd2e00862a9e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/stellent/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.3"
-        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
-        <dex dex="/Users/stellent/Documents/PracticalTest/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.1.0_a9fae54df0d97b6eb851bbdd3e27c3006c7fa764/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/stellent/.android/build-cache/2fe63a28fd597ccffcb957f55c46c12c0bdfd9e6/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.3"
-        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
-        <dex dex="/Users/stellent/Documents/PracticalTest/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e03382713feca486f68e3d29e51bac8e7f1181e0/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/stellent/.android/build-cache/a4bb32bbbb8a05aaca0f18ca77ae1ce9e7682072/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.3"
-        sha1="e7a850c25a7efbd533c496ab482c980fdafac58d">
-        <dex dex="/Users/stellent/Documents/PracticalTest/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_eef75b03affc39988f6eee208b70799a8ce503ef/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/stellent/.android/build-cache/fc2967d5b6bd54476941527734f06018cf32959f/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.3"
-        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
-        <dex dex="/Users/stellent/Documents/PracticalTest/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ee1655cc5d0c61a86e51013b2c27638bc4fc4e03/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/stellent/.android/build-cache/065aebeefedf4734c2be8eb2d401cb1471a461d8/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.3"
-        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
-        <dex dex="/Users/stellent/Documents/PracticalTest/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d6f72289ca447b70bb1a37239e94c5958c0b4869/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/stellent/Documents/PracticalTest/android/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.3"
-        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="/Users/stellent/Documents/PracticalTest/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_948acaa069b003ddb3b1100ed31890dd66dcbeb3/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/stellent/.android/build-cache/e1099cf94220da10a5486fc65259092241b5abe6/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.3"
-        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
-        <dex dex="/Users/stellent/Documents/PracticalTest/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5ea0394e31e95c8e954c55f4025c0116a83984e4/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/stellent/.android/build-cache/33354b028828429b3972304ab34f88616ea4b40b/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.3"
+        revision="27.0.2"
         sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
-        <dex dex="/Users/stellent/Documents/PracticalTest/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6f8b305d157754a3f9e994899ddd56cd7c6b49ad/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/stellent/.android/build-cache/facc453f2d33da49fd4c787200d25286e41e0641/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.3"
-        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
-        <dex dex="/Users/stellent/Documents/PracticalTest/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_40b07fe650cabe2e77b170f7effc99de846dea7a/classes.dex" />
+        <dex dex="/Users/apple/Documents/PracticalTest/android/app/build/intermediates/pre-dexed/debug/classes_34a11c75d6d2b95ff8c26b5df5adbc01162f27c6.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/stellent/.android/build-cache/a4bb32bbbb8a05aaca0f18ca77ae1ce9e7682072/output/jars/classes.jar"
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/Users/apple/Documents/PracticalTest/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_f3c0b4e0275320e9e473be6bbf79d5d138e338de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/Users/apple/Documents/PracticalTest/android/app/build/intermediates/pre-dexed/debug/support-annotations-26.1.0_b9f5f491ea4d3be0002604ab6a0b755903851b80.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.10.0/ec614c05825ddd2267677a99f585d3913474b125/okhttp-urlconnection-3.10.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="ec614c05825ddd2267677a99f585d3913474b125">
+        <dex dex="/Users/apple/Documents/PracticalTest/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.10.0_47e4165f466693850feb825562c01f2db02c221d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/PracticalTest/node_modules/react-native-image-picker/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="666dc433692c784cc2d8cc466639913f21551f1b">
+        <dex dex="/Users/apple/Documents/PracticalTest/android/app/build/intermediates/pre-dexed/debug/classes_bd91f67597b369e2a92f225f0be77c3978a9866f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/apple/Documents/PracticalTest/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_4b4a65cee4360326235f15dd265271ee43973d9a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Users/apple/Documents/PracticalTest/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_2e0e7fe83226098578be71d4d57714492b862739.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.android/build-cache/56bfab98b58a1d305be6ed574ccb091021904dcb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="e7a850c25a7efbd533c496ab482c980fdafac58d">
+        <dex dex="/Users/apple/Documents/PracticalTest/android/app/build/intermediates/pre-dexed/debug/classes_9f7a51515eb0f34cd991f3f70fa9e34b005a9806.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.14.0/102d7be47241d781ef95f1581d414b0943053130/okio-1.14.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="102d7be47241d781ef95f1581d414b0943053130">
+        <dex dex="/Users/apple/Documents/PracticalTest/android/app/build/intermediates/pre-dexed/debug/okio-1.14.0_a6035e857116d3703ccc8c87374870438119455c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.android/build-cache/06543a76bf9914a28652a969f89ede2887743d24/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="f80a752d1333efd4fb9b87da63e73909acb151af">
+        <dex dex="/Users/apple/Documents/PracticalTest/android/app/build/intermediates/pre-dexed/debug/classes_ab3d2fc804f4d107fab02aab0bdb0ede13fc56a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.android/build-cache/56bfab98b58a1d305be6ed574ccb091021904dcb/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/apple/Documents/PracticalTest/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_d321f168674c4fb70f5cc00adeb261a1569a67eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.android/build-cache/68cd14c89c9477095f79fe07cd833117578f204d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="ae15c560bc6685007440d8a70686f8348bafd791">
+        <dex dex="/Users/apple/Documents/PracticalTest/android/app/build/intermediates/pre-dexed/debug/classes_0958333a75317afb81d2eecaf7a05f4fe6759ca8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.android/build-cache/12ba78a42aeaee9bfa12dd3f5fc1ce913510b001/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/Users/apple/Documents/PracticalTest/android/app/build/intermediates/pre-dexed/debug/classes_4bcba665dbd801b8b4ff65fe4a6f3b09ba95e699.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.android/build-cache/51bc63f0a68c4b6c384d86600e390bff981e5a92/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/Users/apple/Documents/PracticalTest/android/app/build/intermediates/pre-dexed/debug/classes_562e2ed8797c420aa481423c15a94dbb0326d0be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.android/build-cache/ace27c3af18482c5750966e32d1da952496c745f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="87382214d92be4e3c931cb6aa7aa4e827bc179b7">
+        <dex dex="/Users/apple/Documents/PracticalTest/android/app/build/intermediates/pre-dexed/debug/classes_15f7170979aee84f831f24c823d01490cee65196.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.android/build-cache/b80bf3bed2c4371c3998957b4bdec297005a7b24/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/Users/apple/Documents/PracticalTest/android/app/build/intermediates/pre-dexed/debug/classes_89d88bc18181f56590a940bc2bcd3811f62e1d3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.android/build-cache/42a6a2f9e1be92d107c77af8621f6c667e367ff1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/apple/Documents/PracticalTest/android/app/build/intermediates/pre-dexed/debug/classes_6666e833423007eb8d1fd13f9ae5f10c0e6f5a60.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/apple/Documents/PracticalTest/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_fe0aa882ed67d269c43943f236b9ffb98416ff73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.android/build-cache/6d849bdf02ab380a05a246c2590df618362e312b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/Users/apple/Documents/PracticalTest/android/app/build/intermediates/pre-dexed/debug/classes_69c2f13c4c87f207da8db02111ca41ab9b3cfd19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/apple/Documents/PracticalTest/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_9265957389f195d84fd2e3ed54ee1c430247c8fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.android/build-cache/33e395dd9792b19c50c44d835d716aee3377eccb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/Users/apple/Documents/PracticalTest/android/app/build/intermediates/pre-dexed/debug/classes_fded21207d975bc1d2bed694362a94e6e3412ca9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.android/build-cache/4ecc921be629652a4cffe48a0d659b23c2598e40/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="da59c80e4a1c8df62d2b4188ef3efddab8afa236">
+        <dex dex="/Users/apple/Documents/PracticalTest/android/app/build/intermediates/pre-dexed/debug/classes_be820c9e9a498afadf392acd03036c1e8fe4aafb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.android/build-cache/c000c1f90001a78bf5c0720d83b56a7466525f1b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="1c9837ec75b2273699379c2ba0ae63d669b4f08c">
+        <dex dex="/Users/apple/Documents/PracticalTest/android/app/build/intermediates/pre-dexed/debug/classes_79944a1eefb50a9d08c982ab204a3ca06f00b592.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.android/build-cache/2feedd9e22d89d3079e3596ffb33c044a518b719/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="9803a14716e9f462afb5742811f3456c39f3be3a">
+        <dex dex="/Users/apple/Documents/PracticalTest/android/app/build/intermediates/pre-dexed/debug/classes_25baf2721e6035db86700c4bf5efd93f81604e4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.android/build-cache/56bfab98b58a1d305be6ed574ccb091021904dcb/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.3"
         sha1="e7a850c25a7efbd533c496ab482c980fdafac58d">
-        <dex dex="/Users/stellent/Documents/PracticalTest/android/app/build/intermediates/pre-dexed/debug/classes_eef75b03affc39988f6eee208b70799a8ce503ef.jar" />
+        <dex dex="/Users/apple/Documents/PracticalTest/android/app/build/intermediates/pre-dexed/debug/classes_9f7a51515eb0f34cd991f3f70fa9e34b005a9806.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/stellent/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/Users/apple/.android/build-cache/9db2076e93b2393a43aee58bd8f4dd33a602cf07/output/jars/classes.jar"
+        jumboMode="false"
         optimize="true"
-        revision="26.0.3"
-        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
-        <dex dex="/Users/stellent/Documents/PracticalTest/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/jsr305-3.0.0_ad792e7dc72b22912d325904f442d0b7d0978d09/classes.dex" />
+        revision="27.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/apple/Documents/PracticalTest/android/app/build/intermediates/pre-dexed/debug/classes_459a7e17cfde69a670b14a03e01b80cb202796d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.10.0/7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e/okhttp-3.10.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e">
+        <dex dex="/Users/apple/Documents/PracticalTest/android/app/build/intermediates/pre-dexed/debug/okhttp-3.10.0_378041975af7593be02453be425345620c1bc14c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.android/build-cache/56bfab98b58a1d305be6ed574ccb091021904dcb/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/apple/Documents/PracticalTest/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_d321f168674c4fb70f5cc00adeb261a1569a67eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.android/build-cache/c71f031fb6948cf6a11fd42987fe1e464d6cde51/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/Users/apple/Documents/PracticalTest/android/app/build/intermediates/pre-dexed/debug/classes_33ad139e27cc091a180d200f5f51239588833b79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.android/build-cache/6827a8651d1ce4f42f9d778acd97831631a73246/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/Users/apple/Documents/PracticalTest/android/app/build/intermediates/pre-dexed/debug/classes_b17271f4cb02f9e4628a8b336cf40394c5d93415.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.android/build-cache/9111800685d1acacbf5b8ec6e80daf3663494ea9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/Users/apple/Documents/PracticalTest/android/app/build/intermediates/pre-dexed/debug/classes_49decba1db846260e42fdb9a7f663873223bc590.jar" />
     </item>
 
 </items>

@@ -2,5 +2,9 @@
     {
         "merged": "/Users/stellent/Documents/PracticalTest/android/app/build/intermediates/res/merged/debug/drawable-v23/abc_control_background_material.xml",
         "source": "/Users/stellent/.android/build-cache/065aebeefedf4734c2be8eb2d401cb1471a461d8/output/res/drawable-v23/abc_control_background_material.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/PracticalTest/android/app/build/intermediates/res/merged/debug/drawable-v23/abc_control_background_material.xml",
+        "source": "/Users/apple/.android/build-cache/33e395dd9792b19c50c44d835d716aee3377eccb/output/res/drawable-v23/abc_control_background_material.xml"
     }
 ]

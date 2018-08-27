@@ -4,12 +4,32 @@
         "source": "/Users/stellent/.android/build-cache/065aebeefedf4734c2be8eb2d401cb1471a461d8/output/res/color/abc_btn_colored_borderless_text_material.xml"
     },
     {
-        "merged": "/Users/stellent/Documents/PracticalTest/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
-        "source": "/Users/stellent/.android/build-cache/065aebeefedf4734c2be8eb2d401cb1471a461d8/output/res/color/abc_primary_text_material_light.xml"
+        "merged": "/Users/apple/Documents/PracticalTest/android/app/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
+        "source": "/Users/apple/.android/build-cache/33e395dd9792b19c50c44d835d716aee3377eccb/output/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/PracticalTest/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/apple/.android/build-cache/33e395dd9792b19c50c44d835d716aee3377eccb/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/PracticalTest/android/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/apple/.android/build-cache/33e395dd9792b19c50c44d835d716aee3377eccb/output/res/color/abc_secondary_text_material_dark.xml"
     },
     {
         "merged": "/Users/stellent/Documents/PracticalTest/android/app/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
         "source": "/Users/stellent/.android/build-cache/065aebeefedf4734c2be8eb2d401cb1471a461d8/output/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/PracticalTest/android/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/Users/apple/.android/build-cache/33e395dd9792b19c50c44d835d716aee3377eccb/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/PracticalTest/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/apple/.android/build-cache/33e395dd9792b19c50c44d835d716aee3377eccb/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/PracticalTest/android/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/Users/apple/.android/build-cache/33e395dd9792b19c50c44d835d716aee3377eccb/output/res/color/switch_thumb_material_dark.xml"
     },
     {
         "merged": "/Users/stellent/Documents/PracticalTest/android/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
@@ -20,16 +40,64 @@
         "source": "/Users/stellent/.android/build-cache/065aebeefedf4734c2be8eb2d401cb1471a461d8/output/res/color/switch_thumb_material_light.xml"
     },
     {
-        "merged": "/Users/stellent/Documents/PracticalTest/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
-        "source": "/Users/stellent/.android/build-cache/065aebeefedf4734c2be8eb2d401cb1471a461d8/output/res/color/abc_primary_text_disable_only_material_light.xml"
+        "merged": "/Users/stellent/Documents/PracticalTest/android/app/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
+        "source": "/Users/stellent/.android/build-cache/065aebeefedf4734c2be8eb2d401cb1471a461d8/output/res/color/abc_tint_btn_checkable.xml"
     },
     {
         "merged": "/Users/stellent/Documents/PracticalTest/android/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
         "source": "/Users/stellent/.android/build-cache/065aebeefedf4734c2be8eb2d401cb1471a461d8/output/res/color/abc_secondary_text_material_light.xml"
     },
     {
-        "merged": "/Users/stellent/Documents/PracticalTest/android/app/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
-        "source": "/Users/stellent/.android/build-cache/065aebeefedf4734c2be8eb2d401cb1471a461d8/output/res/color/abc_tint_btn_checkable.xml"
+        "merged": "/Users/apple/Documents/PracticalTest/android/app/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
+        "source": "/Users/apple/.android/build-cache/33e395dd9792b19c50c44d835d716aee3377eccb/output/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/PracticalTest/android/app/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
+        "source": "/Users/apple/.android/build-cache/33e395dd9792b19c50c44d835d716aee3377eccb/output/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/PracticalTest/android/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/Users/apple/.android/build-cache/33e395dd9792b19c50c44d835d716aee3377eccb/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/PracticalTest/android/app/build/intermediates/res/merged/debug/color/abc_btn_colored_text_material.xml",
+        "source": "/Users/apple/.android/build-cache/33e395dd9792b19c50c44d835d716aee3377eccb/output/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/stellent/Documents/PracticalTest/android/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/Users/stellent/.android/build-cache/065aebeefedf4734c2be8eb2d401cb1471a461d8/output/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/PracticalTest/android/app/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/apple/.android/build-cache/33e395dd9792b19c50c44d835d716aee3377eccb/output/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/PracticalTest/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/apple/.android/build-cache/33e395dd9792b19c50c44d835d716aee3377eccb/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/PracticalTest/android/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/apple/.android/build-cache/33e395dd9792b19c50c44d835d716aee3377eccb/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/PracticalTest/android/app/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
+        "source": "/Users/apple/.android/build-cache/33e395dd9792b19c50c44d835d716aee3377eccb/output/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/stellent/Documents/PracticalTest/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/stellent/.android/build-cache/065aebeefedf4734c2be8eb2d401cb1471a461d8/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/PracticalTest/android/app/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
+        "source": "/Users/apple/.android/build-cache/33e395dd9792b19c50c44d835d716aee3377eccb/output/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/PracticalTest/android/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/Users/apple/.android/build-cache/33e395dd9792b19c50c44d835d716aee3377eccb/output/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/Users/stellent/Documents/PracticalTest/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/stellent/.android/build-cache/065aebeefedf4734c2be8eb2d401cb1471a461d8/output/res/color/abc_primary_text_disable_only_material_light.xml"
     },
     {
         "merged": "/Users/stellent/Documents/PracticalTest/android/app/build/intermediates/res/merged/debug/color/abc_btn_colored_text_material.xml",
@@ -52,6 +120,10 @@
         "source": "/Users/stellent/.android/build-cache/065aebeefedf4734c2be8eb2d401cb1471a461d8/output/res/color/abc_tint_switch_track.xml"
     },
     {
+        "merged": "/Users/apple/Documents/PracticalTest/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/apple/.android/build-cache/33e395dd9792b19c50c44d835d716aee3377eccb/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
         "merged": "/Users/stellent/Documents/PracticalTest/android/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
         "source": "/Users/stellent/.android/build-cache/065aebeefedf4734c2be8eb2d401cb1471a461d8/output/res/color/abc_hint_foreground_material_dark.xml"
     },
@@ -60,8 +132,16 @@
         "source": "/Users/stellent/.android/build-cache/065aebeefedf4734c2be8eb2d401cb1471a461d8/output/res/color/abc_tint_seek_thumb.xml"
     },
     {
+        "merged": "/Users/apple/Documents/PracticalTest/android/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
+        "source": "/Users/apple/.android/build-cache/33e395dd9792b19c50c44d835d716aee3377eccb/output/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
         "merged": "/Users/stellent/Documents/PracticalTest/android/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
         "source": "/Users/stellent/.android/build-cache/065aebeefedf4734c2be8eb2d401cb1471a461d8/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/PracticalTest/android/app/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
+        "source": "/Users/apple/.android/build-cache/33e395dd9792b19c50c44d835d716aee3377eccb/output/res/color/abc_tint_btn_checkable.xml"
     },
     {
         "merged": "/Users/stellent/Documents/PracticalTest/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
@@ -70,9 +150,5 @@
     {
         "merged": "/Users/stellent/Documents/PracticalTest/android/app/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
         "source": "/Users/stellent/.android/build-cache/065aebeefedf4734c2be8eb2d401cb1471a461d8/output/res/color/abc_tint_spinner.xml"
-    },
-    {
-        "merged": "/Users/stellent/Documents/PracticalTest/android/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
-        "source": "/Users/stellent/.android/build-cache/065aebeefedf4734c2be8eb2d401cb1471a461d8/output/res/color/abc_hint_foreground_material_light.xml"
     }
 ]

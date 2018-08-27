@@ -1,7 +1,15 @@
 [
     {
+        "merged": "/Users/apple/Documents/PracticalTest/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/apple/.android/build-cache/33e395dd9792b19c50c44d835d716aee3377eccb/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
         "merged": "/Users/stellent/Documents/PracticalTest/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
         "source": "/Users/stellent/.android/build-cache/065aebeefedf4734c2be8eb2d401cb1471a461d8/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/PracticalTest/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/apple/.android/build-cache/33e395dd9792b19c50c44d835d716aee3377eccb/output/res/drawable-v21/abc_edit_text_material.xml"
     },
     {
         "merged": "/Users/stellent/Documents/PracticalTest/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
@@ -12,7 +20,15 @@
         "source": "/Users/stellent/.android/build-cache/4df5f07430d1149b290a7ae8c7fcb1227899cf38/output/res/drawable-v21/notification_action_background.xml"
     },
     {
+        "merged": "/Users/apple/Documents/PracticalTest/android/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/apple/.android/build-cache/c71f031fb6948cf6a11fd42987fe1e464d6cde51/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
         "merged": "/Users/stellent/Documents/PracticalTest/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
         "source": "/Users/stellent/.android/build-cache/065aebeefedf4734c2be8eb2d401cb1471a461d8/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/PracticalTest/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/apple/.android/build-cache/33e395dd9792b19c50c44d835d716aee3377eccb/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
     }
 ]

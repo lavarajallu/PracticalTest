@@ -12,6 +12,8 @@ import {
 } from "react-native";
 import { Container, Content, Text,Card, CardItem} from 'native-base';
 import { Actions } from 'react-native-router-flux';
+import { connect } from 'react-redux';
+import { Screen_review_Function } from '../actions/index';
 import CommonHeader from './Header/CommonHeader';
 
  class ScreenReviewPage extends Component {
@@ -42,9 +44,9 @@ import CommonHeader from './Header/CommonHeader';
    		//alert("hello123: " +JSON.stringify(c))
       AsyncStorage.setItem("userDetails_Obj", userDetails_Obj)
       AsyncStorage.setItem("validation_Obj", validation_Obj)
-      AsyncStorage.setItem("upload_imgUrl", upload_imgUrl)
       ToastAndroid.show('Sign Up Success !', ToastAndroid.BOTTOM);
-      Actions.SignUpWizardPage()
+      this.props.screen_reviewFunction({userDetails_Obj, validation_Obj, upload_imgUrl});
+      Actions.SignUpWizardPage();
      }
 
 
@@ -86,4 +88,20 @@ const styles = StyleSheet.create({
 
 });
 
-export default ScreenReviewPage;
+const mapStateToProps = (state) => {
+  //alert("dddd: ", state)
+  const { signupData } = state.signupwizard_reducer;
+    return { signupData };
+}
+
+const mapDispatchToProps = (dispatch) => {
+  return {
+    screen_reviewFunction: (payload) => {
+     // alert("po:", payload)
+          dispatch(Screen_review_Function(payload));
+    }
+  };
+}
+export default connect(mapStateToProps, mapDispatchToProps)(ScreenReviewPage);
+
+//export default ScreenReviewPage;

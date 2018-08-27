@@ -1,6 +1,14 @@
 [
     {
+        "merged": "/Users/apple/Documents/PracticalTest/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Users/apple/.android/build-cache/56bfab98b58a1d305be6ed574ccb091021904dcb/output/res/xml/preferences.xml"
+    },
+    {
         "merged": "/Users/stellent/Documents/PracticalTest/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
         "source": "/Users/stellent/.android/build-cache/a4bb32bbbb8a05aaca0f18ca77ae1ce9e7682072/output/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/PracticalTest/android/app/build/intermediates/res/merged/debug/xml/provider_paths.xml",
+        "source": "/Users/apple/Documents/PracticalTest/node_modules/react-native-image-picker/android/build/intermediates/bundles/default/res/xml/provider_paths.xml"
     }
 ]

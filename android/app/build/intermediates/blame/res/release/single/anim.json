@@ -1,15 +1,11 @@
 [
     {
-        "merged": "/Users/stellent/Documents/PracticalTest/android/app/build/intermediates/res/merged/release/anim/catalyst_push_up_out.xml",
-        "source": "/Users/stellent/.android/build-cache/a4bb32bbbb8a05aaca0f18ca77ae1ce9e7682072/output/res/anim/catalyst_push_up_out.xml"
+        "merged": "/Users/apple/Documents/PracticalTest/android/app/build/intermediates/res/merged/release/anim/catalyst_push_up_in.xml",
+        "source": "/Users/apple/.android/build-cache/56bfab98b58a1d305be6ed574ccb091021904dcb/output/res/anim/catalyst_push_up_in.xml"
     },
     {
-        "merged": "/Users/stellent/Documents/PracticalTest/android/app/build/intermediates/res/merged/release/anim/tooltip_enter.xml",
-        "source": "/Users/stellent/.android/build-cache/065aebeefedf4734c2be8eb2d401cb1471a461d8/output/res/anim/tooltip_enter.xml"
-    },
-    {
-        "merged": "/Users/stellent/Documents/PracticalTest/android/app/build/intermediates/res/merged/release/anim/catalyst_slide_down.xml",
-        "source": "/Users/stellent/.android/build-cache/a4bb32bbbb8a05aaca0f18ca77ae1ce9e7682072/output/res/anim/catalyst_slide_down.xml"
+        "merged": "/Users/apple/Documents/PracticalTest/android/app/build/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/apple/.android/build-cache/33e395dd9792b19c50c44d835d716aee3377eccb/output/res/anim/abc_grow_fade_in_from_bottom.xml"
     },
     {
         "merged": "/Users/stellent/Documents/PracticalTest/android/app/build/intermediates/res/merged/release/anim/abc_popup_exit.xml",
@@ -20,12 +16,84 @@
         "source": "/Users/stellent/.android/build-cache/065aebeefedf4734c2be8eb2d401cb1471a461d8/output/res/anim/tooltip_exit.xml"
     },
     {
+        "merged": "/Users/apple/Documents/PracticalTest/android/app/build/intermediates/res/merged/release/anim/tooltip_exit.xml",
+        "source": "/Users/apple/.android/build-cache/33e395dd9792b19c50c44d835d716aee3377eccb/output/res/anim/tooltip_exit.xml"
+    },
+    {
         "merged": "/Users/stellent/Documents/PracticalTest/android/app/build/intermediates/res/merged/release/anim/abc_popup_enter.xml",
         "source": "/Users/stellent/.android/build-cache/065aebeefedf4734c2be8eb2d401cb1471a461d8/output/res/anim/abc_popup_enter.xml"
     },
     {
+        "merged": "/Users/apple/Documents/PracticalTest/android/app/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
+        "source": "/Users/apple/.android/build-cache/33e395dd9792b19c50c44d835d716aee3377eccb/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/stellent/Documents/PracticalTest/android/app/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
+        "source": "/Users/stellent/.android/build-cache/065aebeefedf4734c2be8eb2d401cb1471a461d8/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/PracticalTest/android/app/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
+        "source": "/Users/apple/.android/build-cache/33e395dd9792b19c50c44d835d716aee3377eccb/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/PracticalTest/android/app/build/intermediates/res/merged/release/anim/catalyst_slide_down.xml",
+        "source": "/Users/apple/.android/build-cache/56bfab98b58a1d305be6ed574ccb091021904dcb/output/res/anim/catalyst_slide_down.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/PracticalTest/android/app/build/intermediates/res/merged/release/anim/abc_popup_exit.xml",
+        "source": "/Users/apple/.android/build-cache/33e395dd9792b19c50c44d835d716aee3377eccb/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/PracticalTest/android/app/build/intermediates/res/merged/release/anim/catalyst_push_up_out.xml",
+        "source": "/Users/apple/.android/build-cache/56bfab98b58a1d305be6ed574ccb091021904dcb/output/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/Users/stellent/Documents/PracticalTest/android/app/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/Users/stellent/.android/build-cache/065aebeefedf4734c2be8eb2d401cb1471a461d8/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/PracticalTest/android/app/build/intermediates/res/merged/release/anim/catalyst_fade_in.xml",
+        "source": "/Users/apple/.android/build-cache/56bfab98b58a1d305be6ed574ccb091021904dcb/output/res/anim/catalyst_fade_in.xml"
+    },
+    {
+        "merged": "/Users/stellent/Documents/PracticalTest/android/app/build/intermediates/res/merged/release/anim/catalyst_slide_up.xml",
+        "source": "/Users/stellent/.android/build-cache/a4bb32bbbb8a05aaca0f18ca77ae1ce9e7682072/output/res/anim/catalyst_slide_up.xml"
+    },
+    {
+        "merged": "/Users/stellent/Documents/PracticalTest/android/app/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/stellent/.android/build-cache/065aebeefedf4734c2be8eb2d401cb1471a461d8/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/stellent/Documents/PracticalTest/android/app/build/intermediates/res/merged/release/anim/catalyst_push_up_out.xml",
+        "source": "/Users/stellent/.android/build-cache/a4bb32bbbb8a05aaca0f18ca77ae1ce9e7682072/output/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/PracticalTest/android/app/build/intermediates/res/merged/release/anim/catalyst_slide_up.xml",
+        "source": "/Users/apple/.android/build-cache/56bfab98b58a1d305be6ed574ccb091021904dcb/output/res/anim/catalyst_slide_up.xml"
+    },
+    {
+        "merged": "/Users/stellent/Documents/PracticalTest/android/app/build/intermediates/res/merged/release/anim/tooltip_enter.xml",
+        "source": "/Users/stellent/.android/build-cache/065aebeefedf4734c2be8eb2d401cb1471a461d8/output/res/anim/tooltip_enter.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/PracticalTest/android/app/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/apple/.android/build-cache/33e395dd9792b19c50c44d835d716aee3377eccb/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/stellent/Documents/PracticalTest/android/app/build/intermediates/res/merged/release/anim/catalyst_slide_down.xml",
+        "source": "/Users/stellent/.android/build-cache/a4bb32bbbb8a05aaca0f18ca77ae1ce9e7682072/output/res/anim/catalyst_slide_down.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/PracticalTest/android/app/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/Users/apple/.android/build-cache/33e395dd9792b19c50c44d835d716aee3377eccb/output/res/anim/abc_fade_out.xml"
+    },
+    {
         "merged": "/Users/stellent/Documents/PracticalTest/android/app/build/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
         "source": "/Users/stellent/.android/build-cache/065aebeefedf4734c2be8eb2d401cb1471a461d8/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/PracticalTest/android/app/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/apple/.android/build-cache/33e395dd9792b19c50c44d835d716aee3377eccb/output/res/anim/abc_slide_in_bottom.xml"
     },
     {
         "merged": "/Users/stellent/Documents/PracticalTest/android/app/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
@@ -36,24 +104,36 @@
         "source": "/Users/stellent/.android/build-cache/065aebeefedf4734c2be8eb2d401cb1471a461d8/output/res/anim/abc_slide_out_top.xml"
     },
     {
-        "merged": "/Users/stellent/Documents/PracticalTest/android/app/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
-        "source": "/Users/stellent/.android/build-cache/065aebeefedf4734c2be8eb2d401cb1471a461d8/output/res/anim/abc_slide_in_top.xml"
-    },
-    {
         "merged": "/Users/stellent/Documents/PracticalTest/android/app/build/intermediates/res/merged/release/anim/catalyst_fade_out.xml",
         "source": "/Users/stellent/.android/build-cache/a4bb32bbbb8a05aaca0f18ca77ae1ce9e7682072/output/res/anim/catalyst_fade_out.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/PracticalTest/android/app/build/intermediates/res/merged/release/anim/tooltip_enter.xml",
+        "source": "/Users/apple/.android/build-cache/33e395dd9792b19c50c44d835d716aee3377eccb/output/res/anim/tooltip_enter.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/PracticalTest/android/app/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/apple/.android/build-cache/33e395dd9792b19c50c44d835d716aee3377eccb/output/res/anim/abc_slide_out_bottom.xml"
     },
     {
         "merged": "/Users/stellent/Documents/PracticalTest/android/app/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
         "source": "/Users/stellent/.android/build-cache/065aebeefedf4734c2be8eb2d401cb1471a461d8/output/res/anim/abc_slide_in_bottom.xml"
     },
     {
-        "merged": "/Users/stellent/Documents/PracticalTest/android/app/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
-        "source": "/Users/stellent/.android/build-cache/065aebeefedf4734c2be8eb2d401cb1471a461d8/output/res/anim/abc_fade_out.xml"
+        "merged": "/Users/apple/Documents/PracticalTest/android/app/build/intermediates/res/merged/release/anim/abc_popup_enter.xml",
+        "source": "/Users/apple/.android/build-cache/33e395dd9792b19c50c44d835d716aee3377eccb/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/PracticalTest/android/app/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
+        "source": "/Users/apple/.android/build-cache/33e395dd9792b19c50c44d835d716aee3377eccb/output/res/anim/abc_slide_out_top.xml"
     },
     {
         "merged": "/Users/stellent/Documents/PracticalTest/android/app/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
         "source": "/Users/stellent/.android/build-cache/065aebeefedf4734c2be8eb2d401cb1471a461d8/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/PracticalTest/android/app/build/intermediates/res/merged/release/anim/catalyst_fade_out.xml",
+        "source": "/Users/apple/.android/build-cache/56bfab98b58a1d305be6ed574ccb091021904dcb/output/res/anim/catalyst_fade_out.xml"
     },
     {
         "merged": "/Users/stellent/Documents/PracticalTest/android/app/build/intermediates/res/merged/release/anim/catalyst_push_up_in.xml",
@@ -62,13 +142,5 @@
     {
         "merged": "/Users/stellent/Documents/PracticalTest/android/app/build/intermediates/res/merged/release/anim/catalyst_fade_in.xml",
         "source": "/Users/stellent/.android/build-cache/a4bb32bbbb8a05aaca0f18ca77ae1ce9e7682072/output/res/anim/catalyst_fade_in.xml"
-    },
-    {
-        "merged": "/Users/stellent/Documents/PracticalTest/android/app/build/intermediates/res/merged/release/anim/catalyst_slide_up.xml",
-        "source": "/Users/stellent/.android/build-cache/a4bb32bbbb8a05aaca0f18ca77ae1ce9e7682072/output/res/anim/catalyst_slide_up.xml"
-    },
-    {
-        "merged": "/Users/stellent/Documents/PracticalTest/android/app/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
-        "source": "/Users/stellent/.android/build-cache/065aebeefedf4734c2be8eb2d401cb1471a461d8/output/res/anim/abc_slide_out_bottom.xml"
     }
 ]

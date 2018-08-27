@@ -6,11 +6,14 @@ import {
   Platform,
   ImageBackground,
   TouchableOpacity,
+  AsyncStorage,
   TouchableHighlight
 } from "react-native";
 import { Container, Content, Text} from 'native-base';
 import { Actions } from 'react-native-router-flux';
 var t = require('tcomb-form-native');
+import { connect } from 'react-redux';
+import { Validation_Function } from '../actions/index';
 import CommonHeader from './Header/CommonHeader';
 var Form = t.form.Form;
 // here we are: define your domain model
@@ -81,13 +84,17 @@ var options = {auto: 'placeholders', fields: {
     }
 
 
+
+
+
     onPress () {
     // call getValue() to get the values of the form
-
+      let imageUploadfromPhone = AsyncStorage.getItem("uploadfromPhone")
       var value = this.refs.form.getValue();
       if (value) { // if validation fails, value will be null
      // alert("Fields Obj: "+JSON.stringify(value)); // value here is an instance of Person
-      Actions.ScreenReviewPage({validation_Obj:value, userDetails_Obj:this.state.userDetails_Obj, upload_imgUrl:this.state.upload_imgUrl})
+      this.props.validation_method(value)
+      Actions.ScreenReviewPage({validation_Obj:value, userDetails_Obj:this.state.userDetails_Obj, upload_imgUrl:imageUploadfromPhone})
     }
 
     
@@ -140,4 +147,20 @@ const styles = StyleSheet.create({
   }
 });
 
-export default ValidationPage;
+const mapStateToProps = (state) => {
+  //alert("dddd: ", state)
+  const { signupData } = state.signupwizard_reducer;
+    return { signupData };
+}
+
+const mapDispatchToProps = (dispatch) => {
+  return {
+    validation_method: (payload) => {
+     // alert("po:", payload)
+          dispatch(Validation_Function(payload));
+    }
+  };
+}
+export default connect(mapStateToProps, mapDispatchToProps)(ValidationPage);
+
+//export default ValidationPage;

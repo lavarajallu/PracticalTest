@@ -12,7 +12,7 @@ import { Container, Content, Text,Card, CardItem} from 'native-base';
 import { Actions } from 'react-native-router-flux';
 import CommonHeader from './Header/CommonHeader';
 const imgUrl = 'https://upload.wikimedia.org/wikipedia/commons/d/da/Internet2.jpg'
-//import ImagePickerComponent from './ImagepickerComponent';
+import ImagePickerComponent from './imagepickerComponent';
 // in android version getting issue so i moved sample image in 
 //if you wanna checkout this code please go to above componet for image upload
 
@@ -51,6 +51,7 @@ const imgUrl = 'https://upload.wikimedia.org/wikipedia/commons/d/da/Internet2.jp
                  <View style={styles.container}>
                  <Card>
                  <CardItem cardBody>
+                  <ImagePickerComponent/>
                     <Image source={{uri:this.state.upload_imgUrl }} style={{height: 200, width: null, flex: 1}}/>
                  </CardItem>
                  </Card>

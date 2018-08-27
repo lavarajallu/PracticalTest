@@ -4,16 +4,20 @@ import {
   Text,
   View,
   Image,
+  AsyncStorage,
   Button
 } from 'react-native';
 import ImagePicker from "react-native-image-picker";
 
 
 export default class ImagePickerComponent extends Component {
-
-  state = {
+constructor(props){
+  super(props);
+  this.state = {
     pickedImage: null
   }
+}
+  
 
   reset = () => {
     this.setState({
@@ -35,6 +39,8 @@ export default class ImagePickerComponent extends Component {
       } else {
         this.setState({
           pickedImage: { uri: res.uri }
+        },()=>{
+          AsyncStorage.setItem("uploadfromPhone", this.state.pickedImage)
         });
 
       }
@@ -72,7 +78,7 @@ const styles = StyleSheet.create({
     fontWeight:"bold",
     fontSize:30,
     textAlign:"center",
-    color:"red",
+    color:"hotpink",
     marginTop:10
   },
   placeholder: {
